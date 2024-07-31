@@ -1,0 +1,25 @@
+# Python 관련 파일 및 디렉토리
+__pycache__/
+*.py[cod]
+
+# 가상 환경 디렉토리
+venv/
+env/
+
+# 운영 체제별 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# IDE 관련 파일
+.vscode/
+.idea/
+
+# 빌드 출력 디렉토리
+build/
+dist/
+
+# dataset 디렉토리 무시
+dataset/

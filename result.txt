@@ -1,0 +1,18 @@
+loss_flag2_lr0.001_dm256_weather_PatchMixer_custom_ftM_sl336_pl96_p16s8_random2021_0  
+mse:0.15038655698299408, mae:0.19332119822502136, rse:0.5104925036430359
+
+loss_flag2_lr0.001_dm256_weather_PatchMixer_custom_ftM_sl336_pl96_p16s8_random2021_0  
+mse:0.15038655698299408, mae:0.19332119822502136, rse:0.5104925036430359
+
+loss_flag2_lr0.001_dm256_weather_PatchMixer_custom_ftM_sl336_pl96_p16s8_random2021_0  
+mse:0.15038655698299408, mae:0.19332119822502136, rse:0.5104925036430359
+
+loss_flag2_lr0.001_dm256_weather_PatchMixer_custom_ftM_sl336_pl96_p16s8_random2021_0  
+mse:0.15038655698299408, mae:0.19332119822502136, rse:0.5104925036430359
+
+loss_flag2_lr0.001_dm256_weather_PatchMixer_custom_ftM_sl336_pl96_p16s8_random2021_0  
+mse:0.15038655698299408, mae:0.19332119822502136, rse:0.5104925036430359
+
+loss_flag2_lr0.001_dm256_weather_PatchMixer_custom_ftM_sl336_pl96_p16s8_random2021_0  
+mse:0.15038655698299408, mae:0.19332119822502136, rse:0.5104925036430359
+
